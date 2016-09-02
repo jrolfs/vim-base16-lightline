@@ -27,7 +27,7 @@ let s:p.inactive.left   = [ [ s:base04, s:base06 ] ]
 let s:p.normal.middle   = [ [ s:base02, s:base05 ] ]
 let s:p.inactive.middle = [ [ s:base03, s:base06 ] ]
 
-let s:p.normal.right    = [ [ s:base06, s:base04 ], [ s:base04, s:base03 ] ]
+let s:p.normal.right    = [ [ s:base03, s:base05 ], [ s:base06, s:base04 ] ]
 let s:p.inactive.right  = [ [ s:base03, s:base05 ] ]
 
 let s:p.normal.error    = [ [ s:base07, s:base08 ] ]
